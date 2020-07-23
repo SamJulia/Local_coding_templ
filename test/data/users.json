@@ -1,0 +1,19 @@
+{
+  "registerNewUser": {
+    "firstNameInput": "John",
+    "lastNameInput": "From",
+    "emailInputField": "qa6@gmaail.com",
+    "passwordInputField": "12341234",
+    "checkBoxAgreement": "Return"
+  },
+  "X": {
+    "": "",
+    "": "",
+    "": ""
+  },
+  "Y": {
+    "": "",
+    "": "",
+    "": ""
+  }
+}

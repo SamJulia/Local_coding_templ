@@ -1,0 +1,29 @@
+{
+  "name": "qa6_local_coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio wdio.conf.js"
+  },
+  "author": "QA6",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/register": "^7.10.5",
+    "@wdio/cli": "^6.3.0",
+    "@wdio/local-runner": "^6.3.0",
+    "@wdio/mocha-framework": "^6.3.0",
+    "@wdio/spec-reporter": "^6.3.0",
+    "@wdio/sync": "^6.3.0",
+    "chromedriver": "^84.0.0",
+    "wdio-chromedriver-service": "^6.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "faker": "^4.1.0"
+  }
+}
